@@ -36,3 +36,4 @@ public class DishOrder
     // Track user's initial rating
     public double? InitialRating { get; set; } // To track the first rating
 }
+
