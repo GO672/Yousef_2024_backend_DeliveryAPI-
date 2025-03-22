@@ -11,3 +11,4 @@ public class Dish
     public double Rating { get; set; }
     public DishCategory Category { get; set; }  // Category as enum
 }
+
