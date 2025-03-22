@@ -4,3 +4,4 @@
     public string UserId { get; set; }
     public int RatingScore { get; set; }
 }
+
