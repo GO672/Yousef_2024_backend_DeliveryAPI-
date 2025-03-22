@@ -11,3 +11,4 @@ public class LoginCredentials
     [MinLength(1)]
     public string Password { get; set; }
 }
+
