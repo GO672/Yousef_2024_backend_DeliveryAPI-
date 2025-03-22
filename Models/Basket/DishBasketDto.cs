@@ -27,3 +27,4 @@ public class DishBasketDto
     [Required]
     public string UserId { get; set; } // ID of the user to whom the basket item belongs
 }
+
